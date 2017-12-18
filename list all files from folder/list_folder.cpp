@@ -4,7 +4,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
 
 	int n_files = 0;
 
